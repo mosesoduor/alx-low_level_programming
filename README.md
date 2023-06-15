@@ -1,3 +1,3 @@
-##C programming language
+## C programming language
 
  **Learning to code in C language**
